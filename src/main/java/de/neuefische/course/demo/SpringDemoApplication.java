@@ -1,4 +1,4 @@
-package de.neuefische.course.SpringDemo;
+package de.neuefische.course.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
